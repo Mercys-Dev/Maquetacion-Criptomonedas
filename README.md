@@ -1,4 +1,4 @@
-#Pagina para Criptomonedas 💰
+# Pagina para Criptomonedas 💰
 
 Este es un proyecto de practica donde maquetamos una pagina completa y responsive sobre criptomonedas desde las clases de [ Platzi](http:/https://platzi.com/home/ " Platzi")
 
